@@ -9,4 +9,5 @@ int main(){
     } else{
         printf("i is smaller than 5");
     }
+    printf("hi");
 }
